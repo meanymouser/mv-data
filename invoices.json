@@ -1,7 +1,7 @@
 {
 	"companyLogo": "https://lea.verou.me/logo.svg",
 	"companyName": "Lea Verou",
-	"companyAddress": "42 JavaScript Way\n\t\t\tBoston, MA 02114\n\t\t\tUSA",
+	"companyAddress": "42 JavaScript Way\nBoston, MA 02114\nUSA",
 	"companyURL": "http://lea.verou.me",
 	"companyEmail": "lea@verou.me",
 	"invoice": [
@@ -26,6 +26,18 @@
 					"description": "Web hosting",
 					"amount": "20"
 				}
+			]
+		},
+		{
+			"id": "3",
+			"date": "2024-12-26",
+			"recipient": {
+				"name": "Some",
+				"address": "1"
+			},
+			"currency": "$",
+			"services": [
+				{}
 			]
 		},
 		{
